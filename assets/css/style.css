@@ -1,0 +1,17 @@
+.container-fluid {
+    background-color: black;
+}
+
+.card {
+    background-color: rgb(59, 59, 59);
+}
+
+body {
+    background-image: url(../img/background.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 100vh; 
+    margin: 0;
+    background
+}
