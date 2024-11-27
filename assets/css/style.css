@@ -2,12 +2,16 @@
     background-color: black;
 }
 
+header {
+ text-align: center;
+}
+
 .card {
     background-color: rgb(59, 59, 59);
 }
 
 body {
-    background-image: url(../img/background.jpg);
+    background-image: url(/assets/img/background2.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -15,3 +19,25 @@ body {
     margin: 0;
     background
 }
+.footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 15px ;
+    font-size: 0.9em;
+    margin-top: 20px;
+  }
+
+  .footer a {
+    color: #1e90ff;
+    text-decoration: none;
+    margin: 0 10px;
+  }
+
+  .footer a:hover {
+    text-decoration: underline;
+  }
+
+  .headerlogo {
+    text-align: center;
+ }

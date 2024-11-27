@@ -1,0 +1,23 @@
+.container-fluid{
+    background-color: black;
+}
+
+body {
+    background-image: url(/assets/img/background2.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 100vh;
+    margin: 0;
+    background
+  }
+
+
+  .form-container {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  }

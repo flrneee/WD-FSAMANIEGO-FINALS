@@ -1,0 +1,33 @@
+.container-fluid {
+    background-color: black;
+}
+
+.card {
+    background-color: rgb(59, 59, 59);
+}
+
+body {
+    background-image: url(/assets/img/background2.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 100vh; 
+    margin: 0;
+    background
+}
+
+.image-container {
+    position: relative;
+    overflow: hidden;
+    max-height: 500px;
+  }
+  .image-container img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+  }
+  .description-container {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-top: 2px solid #343a40;
+  }
