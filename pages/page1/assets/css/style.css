@@ -1,12 +1,8 @@
 .container-fluid {
-    background-color: black;
-    margin-left: 20px;
-    margin-right: 20px;
+  background-color: black;
+  font-size:x-large;
+  text-shadow: 0 0 10px #ff0080, 0 0 20px #ff0080, 0 0 30px #ff0080;
 
-}
-
-.card {
-    background-color: rgb(59, 59, 59);
 }
 
 body {
@@ -16,7 +12,12 @@ body {
     background-attachment: fixed;
     height: 100vh; 
     margin: 0;
-    background
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    font-size: 3rem;
+    font-weight: bold;
+    text-shadow: 0 0 10px #00f, 0 0 20px #00f, 0 0 30px #00f, 0 0 40px #00f, 0 0 50px #00f;
+    background-blend-mode:overlay;
 }
 
 h1 {
@@ -28,19 +29,19 @@ h1 {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     margin: auto;
+    margin-top: 50px;
     gap: 50px;
     height: fit-content;
     width: fit-content;
   }
 
   .event {
-    background-color: #fff;
-    border: 1px solid #ddd;
+    background-color: #000000;
     border-radius: 8px;
     padding: 30px;
     text-align: center;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     transition: transform 0.2s, box-shadow 0.2s;
+    box-shadow: 0 0 10px rgb(0, 119, 255), 0 0 20px rgb(0, 119, 255), 0 0 30px rgb(0, 119, 255), 0 0 40px rgb(0, 119, 255), 0 0 50px rgb(0, 119, 255)
   }
 
   .event:hover {
@@ -65,12 +66,13 @@ h1 {
   }
 
   .footer {
-    background-color: #333;
+    background-color: black;
     color: white;
     text-align: center;
     padding: 15px ;
     font-size: 0.9em;
     margin-top: 20px;
+    text-shadow: 0 0 10px #ff0080, 0 0 20px #ff0080, 0 0 30px #ff0080;
   }
 
   .footer a {

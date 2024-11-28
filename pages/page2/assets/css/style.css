@@ -1,33 +1,75 @@
 .container-fluid {
-    background-color: black;
+  background-color: black;
+  font-size: x-large;
+  text-shadow: 0 0 10px #ff0080, 0 0 20px #ff0080, 0 0 30px #ff0080;
 }
 
-.card {
-    background-color: rgb(59, 59, 59);
+header {
+  text-align: center;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+  font-size: 3rem;
+  font-weight: bold;
+  color: #fff;
+  text-shadow: 0 0 10px #00f, 0 0 20px #00f, 0 0 30px #00f, 0 0 40px #00f, 0 0 50px #00f;
 }
 
 body {
-    background-image: url(/assets/img/background2.jpg);
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
-    height: 100vh; 
-    margin: 0;
-    background
+  background-image: url(/assets/img/background2.jpg);
+  background-blend-mode: overlay;
+}
+
+ body {
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  height: 100vh;
+  margin: 0;
+  text-align: center;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+  font-size: 3rem;
+  font-weight: bold;
+  text-shadow: 0 0 10px #00f, 0 0 20px #00f, 0 0 30px #00f, 0 0 40px #00f, 0 0 50px #00f;
+}
+
+.carousel-inner{
+  box-shadow: 0 0 10px #00f, 0 0 20px #00f, 0 0 30px #00f, 0 0 40px #00f, 0 0 50px #00f;
+
 }
 
 .image-container {
     position: relative;
     overflow: hidden;
     max-height: 500px;
+    box-shadow: 0 0 10px #00f, 0 0 20px #00f, 0 0 30px #00f, 0 0 40px #00f, 0 0 50px #00f;
+
   }
-  .image-container img {
+.image-container img {
     width: 100%;
     height: auto;
     object-fit: cover;
   }
-  .description-container {
+
+.description-container {
     background-color: #f8f9fa;
     padding: 20px;
     border-top: 2px solid #343a40;
+  }
+
+.footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 15px ;
+    font-size: 0.9em;
+    margin-top: 20px;
+  }
+
+.footer a {
+    color: #1e90ff;
+    text-decoration: none;
+    margin: 0 10px;
+  }
+
+  .footer a:hover {
+    text-decoration: underline;
   }

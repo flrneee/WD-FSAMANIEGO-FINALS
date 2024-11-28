@@ -1,5 +1,7 @@
 .container-fluid{
-    background-color: black;
+  background-color: black;
+  font-size: x-large;
+  text-shadow: 0 0 10px #ff0080, 0 0 20px #ff0080, 0 0 30px #ff0080;
 }
 
 body {
@@ -9,9 +11,8 @@ body {
     background-attachment: fixed;
     height: 100vh;
     margin: 0;
-    background
+    background-blend-mode:overlay;
   }
-
 
   .form-container {
     max-width: 400px;
@@ -19,5 +20,30 @@ body {
     padding: 20px;
     background: white;
     border-radius: 10px;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgb(0, 119, 255), 0 0 20px rgb(0, 119, 255), 0 0 30px rgb(0, 119, 255), 0 0 40px rgb(0, 119, 255), 0 0 50px rgb(0, 119, 255)
+  }
+  
+  header {
+    text-align: center;
+    text-shadow: 0 0 10px rgb(0, 119, 255), 0 0 20px rgb(0, 119, 255), 0 0 30px rgb(0, 119, 255), 0 0 40px rgb(0, 119, 255), 0 0 50px rgb(0, 119, 255)
+   }
+
+  .footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 15px ;
+    font-size: 0.9em;
+    margin-top: 20px;
+    text-shadow: 0 0 10px #ff0080, 0 0 20px #ff0080, 0 0 30px #ff0080;
+  }
+
+  .footer a {
+    color: #1e90ff;
+    text-decoration: none;
+    margin: 0 10px;
+  }
+
+  .footer a:hover {
+    text-decoration: underline;
   }
