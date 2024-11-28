@@ -13,12 +13,9 @@ header {
   text-shadow: 0 0 10px #00f, 0 0 20px #00f, 0 0 30px #00f, 0 0 40px #00f, 0 0 50px #00f;
 }
 
-body {
+ body {
   background-image: url(../../../../assets/img/background2.jpg);
   background-blend-mode: overlay;
-}
-
- body {
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
