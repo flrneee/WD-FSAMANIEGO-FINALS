@@ -64,9 +64,13 @@ Description of the project in details.
 
 Guiding Question:
 - What is the project
+  -   A website for Chill top bar around Metro Manila.
 - Whats the purpose
+  - To know the location, products, current events, and to book a schedule. 
 - What are key components
+  - to book a reservation to chill top branches.
 - What technology used and how it is used
+  - Bootstrap and css is used for this html code. Bootstrap is used for the navbar and carousel images while the css is used to design the whole website.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
