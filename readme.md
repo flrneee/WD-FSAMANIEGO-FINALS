@@ -6,21 +6,21 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/CHILL_TOP_LOGO.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/CHILL_TOP_LOGO.png" alt="Logo" width="230" height="200">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">CHILL TOP WEBSITE</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+chill top bar" is a relaxed and laid-back bar or lounge that offers a comfortable, casual atmosphere with a scenic or elevated view. ’s located on a higher floor or rooftop, allowing patrons to enjoy the skyline of Metro Manila.
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-FSAMANIEGO)
 
 ---
 
@@ -64,13 +64,13 @@ Description of the project in details.
 
 Guiding Question:
 - What is the project
-  -   A website for Chill top bar around Metro Manila.
+  -   A website for Chill top bar, it is a famous restobar in the Philippines. The website shows different information such as branch locations, booking a schedule, events, and their new products.
 - Whats the purpose
-  - To know the location, products, current events, and to book a schedule. 
+  - The purpose of the website is to provide information about different locations around Metro Manila, and to book a schedule for the future events, and/or to the said branches. This adds interactivity to the customers. And lastly, the website also provides information about their seasonal products which are christmas themed drinks.
 - What are key components
-  - to book a reservation to chill top branches.
+  - The key component of the website is to easily navigate the information in the website. It is also aesthetically pleasing and shows the company's theme.
 - What technology used and how it is used
-  - Bootstrap and css is used for this html code. Bootstrap is used for the navbar and carousel images while the css is used to design the whole website.
+  - Bootstrap and css is used for this html code. Bootstrap is used for the navbar and carousel images which makes the website responsive. CSS, on the other hand, is used to add design to make it aesthetically pleasing including fonts, spacing, containers, colors, and background design.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
