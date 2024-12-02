@@ -20,7 +20,7 @@ chill top bar" is a relaxed and laid-back bar or lounge that offers a comfortabl
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-FSAMANIEGO)
+![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
 
 ---
 
